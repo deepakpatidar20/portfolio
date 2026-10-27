@@ -9,14 +9,14 @@ function Portfolio() {
       <div className="portfolio-container">
 
         <div className="portfolio-card">
-          <img src="src\assets\news.png" alt="project" />
+          <img src="public\news.png" alt="project" />
           <h3>News Website</h3>
           <p>I develop websites using HTML, CSS, and JavaScript.</p>
           <a href="https://newsweb-04.vercel.app/" className="btn">View Project</a>
         </div>
 
         <div className="portfolio-card">
-          <img src="src\assets\tea.png" alt="project" />
+          <img src="public\tea.png" alt="project" />
           <h3>Tea Shop Website</h3>
           <p>Full-Stack Website. Develope Using
 Frontend HTML, CSS, JavaScript, Backend PHP, PHPMailer.</p>
