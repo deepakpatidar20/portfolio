@@ -9,7 +9,7 @@ function Hero() {
         <h2>Full Stack Developer</h2>
 
         <p>
-          I build modern, responsive and user-friendly websites using Html, Css, Javascript, Jquery, Php, Laravel, Mysql.
+          I build modern, responsive and user-friendly websites using Html, Css, Javascript, Jquery, Php, Laravel, Mysql, Github, React.js, ReactNative.
           Passionate about coding, design and innovation.
         </p>
 

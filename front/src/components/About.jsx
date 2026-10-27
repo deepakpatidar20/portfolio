@@ -26,11 +26,11 @@ function About() {
             websites using the Full Stack Development.
           </p>
 
-          <p>
+          {/* <p>
             Currently pursuing B.Tech in Computer Science, I am continuously improving my
-            skills in Html, Css, Javascript, Jquery, Php, Laravel, Mysql. My goal is to become a professional
+            skills in Html, Css, Javascript, Jquery, Php, Laravel, Mysql, Github, React.js, ReactNative.. My goal is to become a professional
             developer and build impactful digital products.
-          </p>
+          </p> */}
 
         </div>
 

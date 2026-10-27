@@ -10,7 +10,7 @@ function Education() {
 
         {/* Item 1 */}
         <div className="education-box">
-          <h3>B.Tech in Computer Science</h3>
+          <h3>B. Tech. Computer Science Engineering <br></br>Full Stack Development & Blockchain Offered in collaboration with IBM</h3>
           <span>2022 - 2026</span>
           <p>Shri Vaishnav Institute of Information Technology (SVVV), Indore</p>
         </div>
