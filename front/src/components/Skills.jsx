@@ -59,7 +59,6 @@ function Skills() {
           <p>React-Native</p>
         </div>
 
-
       </div>
 
     </section>

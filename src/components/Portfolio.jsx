@@ -20,7 +20,7 @@ function Portfolio() {
           <h3>Tea Shop Website</h3>
           <p>Full-Stack Website. Develope Using
 Frontend HTML, CSS, JavaScript, Backend PHP, PHPMailer.</p>
-          <a href="https://newsweb-04.vercel.app/" className="btn">View Project</a>
+          <a href="https://teashop-04.vercel.app/" className="btn">View Project</a>
         </div>
 
       </div>
